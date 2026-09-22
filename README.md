@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 <img  <img width="1892" height="994" alt="Screenshot 2026-09-22 115245" src="https://github.com/user-attachments/assets/475a3335-def7-4027-ad3e-c819b5bf96c1" 
 
-/>
+
 </p>
 <p>
 
