@@ -31,7 +31,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1896" height="1018" alt="Screenshot 2026-09-22 113430" src="https://github.com/user-attachments/assets/91f54aa8-21e6-4f52-9ffa-6c82a040755c" />
+/>
 </p>
 <p>
 Successful deployment of the domain controller (DC-1) and Client-1 virtual machines with verified network connectivity and DNS configuration. 
