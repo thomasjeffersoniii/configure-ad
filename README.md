@@ -45,7 +45,7 @@ Configured the mydomain.com Active Directory domain and created dedicated organi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Verified that Client-1 successfully authenticates users against the mydomain.com Active Directory domain. Remote Desktop access was configured to allow standard Domain Users to connect without requiring administrative privileges.
 </p>
 <br />
 
