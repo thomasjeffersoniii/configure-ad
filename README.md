@@ -35,7 +35,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 />
 </p>
 <p>
-Successful deployment of the domain controller (DC-1) and Client-1 virtual machines with verified network connectivity and DNS configuration. 
+ Active Directory Domain and Organizational Unit Configuration
+Configured the mydomain.com Active Directory domain and created dedicated organizational units for administrators, employees, and client computers. The jane_admin account was configured as a Domain Administrator, while user and computer accounts were organized within their respective OUs.
 </p>
 <br />
 
