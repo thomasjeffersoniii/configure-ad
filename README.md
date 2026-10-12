@@ -52,7 +52,7 @@ Verified that Client-1 successfully authenticates users against the mydomain.com
 
 <p>
 <img <img width="1877" height="1009" alt="Screenshot 2026-10-08 013544" src="https://github.com/user-attachments/assets/c5801dfd-7e2f-4d03-a5bc-8ea85272d73b" />
-/>
+
 </p>
 <p>
 Configured an Active Directory Group Policy to lock user accounts after five unsuccessful authentication attempts. The policy was tested by intentionally entering an incorrect password and verifying the resulting account lockout before restoring access.
